@@ -1,2 +1,2 @@
 preproc,algo,roc,time
-pca10,RandomForestClassifier,,
+pca10,RandomForestClassifier,0.9947469206588486,695.0
